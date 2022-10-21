@@ -1,0 +1,42 @@
+export const PEOPLE = [
+  {
+    id: 45,
+    name: `Lisa`,
+    age: 25,
+    location: `Delhi,India`,
+    area: 20,
+    photo: `https://images.unsplash.com/photo-1494790108377-be9c29b29330?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8Mnx8cGVvcGxlfGVufDB8fDB8fA%3D%3D&auto=format&fit=crop&w=500&q=60`,
+  },
+  {
+    id: 46,
+    name: `Martin`,
+    age: 28,
+    location: `Delhi,India`,
+    area: 15,
+    photo: `https://images.unsplash.com/photo-1539571696357-5a69c17a67c6?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8NHx8cGVvcGxlfGVufDB8fDB8fA%3D%3D&auto=format&fit=crop&w=500&q=60`,
+  },
+  {
+    id: 47,
+    name: `Julia`,
+    age: 22,
+    location: `Delhi,India`,
+    area: 25,
+    photo: `https://images.unsplash.com/photo-1529626455594-4ff0802cfb7e?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8Mjd8fHBlb3BsZXxlbnwwfHwwfHw%3D&auto=format&fit=crop&w=500&q=60`,
+  },
+  {
+    id: 48,
+    name: `Max`,
+    age: 21,
+    location: `Delhi,India`,
+    area: 30,
+    photo: `https://images.unsplash.com/photo-1492446845049-9c50cc313f00?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8NDZ8fHBlb3BsZXxlbnwwfHwwfHw%3D&auto=format&fit=crop&w=500&q=60`,
+  },
+  {
+    id: 49,
+    name: `Monica`,
+    age: 29,
+    location: `Delhi,India`,
+    area: 50,
+    photo: `https://images.unsplash.com/photo-1488426862026-3ee34a7d66df?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MzJ8fHBlb3BsZXxlbnwwfHwwfHw%3D&auto=format&fit=crop&w=500&q=60`,
+  },
+];
