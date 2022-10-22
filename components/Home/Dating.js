@@ -10,7 +10,7 @@ const Dating = function () {
         data={PEOPLE}
         keyExtractor={(item) => item.id}
         horizontal
-        // scrollEnabled={false}
+        scrollEnabled={false}
         contentContainerStyle={styles.contentContainer}
         showsHorizontalScrollIndicator={false}
         renderItem={({ index, item }) => <ListItem index={index} item={item} />}
